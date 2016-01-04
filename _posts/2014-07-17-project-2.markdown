@@ -1,0 +1,15 @@
+---
+title: MAKER CINEMA – COME, WATCH & DISCUSS!
+subtitle: Maker Social
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cinema.png
+thumbnail: cinema-thumb.png
+alt: image-alt
+project-date: April 2014
+client:
+category: Community
+description: As part of an ongoing initiative to support the maker community, encourage dialogue and initiate new directions for the maker movement in NZ.
+
+---

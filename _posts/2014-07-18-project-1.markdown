@@ -1,0 +1,15 @@
+---
+title: MAKERCRATE  CHCH
+subtitle: MakerCrate in action
+layout: default
+modal-id: 1
+date: 2012-07-18
+img: makercratechch.png
+thumbnail: makercratechch-thumb.png
+alt: MakerCrate Christchurch in use by Fabriko
+project-date: Sept 2013
+client:
+category: Community
+description: Fabriko (Bridget McKendry & Carl Pavletich) brought MakerCrateChCh to life. The goal was to develop and deploy a MakerCrate as a transitional community project in post Earthquake Christchurch. Taking the MakerCrate template and refining it it into a functional device.
+
+---

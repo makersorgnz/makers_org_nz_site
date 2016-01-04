@@ -1,0 +1,14 @@
+---
+title: WELLINGTON REGION MAKER MEETUP
+subtitle: Maker Social
+layout: default
+modal-id: 3
+date: 2010-09-16
+img: meetup.png
+thumbnail: meetup-thumb.png
+alt: image-alt
+project-date: 2010 - present
+client:
+category: Community
+description: Create an online community where people can come and meet and discuss all things maker. Started in 2010 in order to connect existing makers, and to provide those with an interest in learning more about what it means to be a maker the opportunity to do so.
+---

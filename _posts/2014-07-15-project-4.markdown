@@ -1,0 +1,15 @@
+---
+title: HACKATHONs
+subtitle: Public and private hackathons
+layout: default
+modal-id: 4
+date: 2010-09-20
+img: hackathon.png
+thumbnail: hackathon.png
+alt: image-alt
+project-date: April 2014
+client:
+category: Community
+description:
+
+---

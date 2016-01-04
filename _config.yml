@@ -1,0 +1,70 @@
+url: https://makers.org.nz
+baseurl: /makers_org_nz_site
+
+# Site settings
+title: Makers Org NZ
+email: info@makers.org.nz
+description: "With an interest in helping anyone be a maker, we're focusing on building the tools for a thriving maker community in NZ."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Richard Fortune
+  pic: 1
+  position: Wellington Chapter Lead
+  social:
+    - title: twitter
+      url: http://www.twitter.com/iamkey
+    - title: linkedin
+      url: https://nz.linkedin.com/in/richardofortune
+    # - title: stack-overflow
+    #   url: #
+
+- name: Jess Weichler
+  pic: 2
+  position: Maker Education Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/jlweich
+    # - title: facebook
+    #   url: #
+    # - title: google-plus
+    #   url: #
+
+- name: Nigel Cartmell
+  pic: 3
+  position: Auckland Chapter Lead
+  social:
+    # - title: email
+    #   url: #
+    # - title: facebook
+    #   url: #
+    - title: linkedin
+      url: https://www.linkedin.com/pub/nigel-cartmell/39/732/739
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/makerorgnz
+  - title: facebook
+    url: https://www.facebook.com/MakersNZ
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/makersorgnz
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 54b Severn St. Island Bay
+  - line: Wellington, 6023
+
+# Build settings
+markdown: kramdown
+permalink: pretty
